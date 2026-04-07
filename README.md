@@ -1,6 +1,6 @@
 # Hemant Mann
 
-**Backend & Infrastructure Engineer · 9 years · 100K req/sec · 5B events/day**
+**Backend & Infrastructure Engineer · 9 years · 100K+ req/sec · 5B+ events/day**
 
 Built and scaled a SaaS platform from a blank file to a global infrastructure serving 500+ enterprise clients — solo. Every architectural decision, every system, every line of the core platform.
 
@@ -34,7 +34,7 @@ Cloud infrastructure         →  AWS, GCP, Terraform, Docker — optimized, not
 `Redis` `Dragonfly` `Memcache`
 
 **Infrastructure**
-`AWS` `GCP` `DigitalOcean` `Terraform` `Docker` `Linux` `Nginx`
+`GCP` `AWS` `DigitalOcean` `Terraform` `Docker` `Linux` `Nginx`
 
 ---
 
@@ -42,7 +42,7 @@ Cloud infrastructure         →  AWS, GCP, Terraform, Docker — optimized, not
 
 | Metric | Scale |
 |---|---|
-| Peak throughput | 100,000 requests / second |
+| Peak throughput | 100,000+ requests / second |
 | Events processed | 5B+ / day |
 | Data volume | Hundreds of terabytes |
 | Platform uptime | 99.99% SLA |
