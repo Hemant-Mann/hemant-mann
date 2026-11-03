@@ -73,4 +73,4 @@ Built the Dropbox v2 integration for ownCloud. Ported the Flysystem adapter from
 
 ---
 
-*Available for remote backend/infra roles and fractional CTO engagements.*
+*Available for backend/infra/technical consultant roles.*
